@@ -10,4 +10,4 @@
 ## Age :older_man:
 ## Cedula :date:
 ## Charge :construction_worker:
-## :grin: 	:smir k:  	:two_hearts:
+## :grinning: 	:wink: 	:two_hearts:
