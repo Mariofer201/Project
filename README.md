@@ -7,3 +7,7 @@
 ### This has attributes such as:
 ## Name :point_left:
 ## Last name :ok_hand:
+## Age :older_man:
+## Cedula :date:
+## Charge :construction_worker:
+## :grin: 	:smir k:  	:two_hearts:
