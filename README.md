@@ -5,4 +5,5 @@
 ## In this work we want to let the public know how the DTO Y DAO is used through a human resources company meeting the criteria proposed by the company that hired us to do this job.
 
 ## This has attributes such as:
-# Name :point_left:
+## Name :point_left:
+## Last name :ok_hand:
