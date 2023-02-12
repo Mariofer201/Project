@@ -10,8 +10,17 @@ public class Candidatos implements Serializable{
 	private int edad;
 	private String cargo;
 	
-	public Candidatos() {
 	
+	
+	public Candidatos(String pNombre, int pEdad, String pCedula, String pApellido, String pCargo){
+		nombre=pNombre;
+		edad=pEdad;
+		cedula=pCedula;
+		apellido=pApellido;
+		cargo=pCargo;
+		
+		verificarInvariante();
+		
 	}
 
 	public Candidatos(String nombre, String apellido, String cedula, int edad, String cargo) {
@@ -61,7 +70,7 @@ public class Candidatos implements Serializable{
 	public void setCargo(String cargo) {
 		this.cargo = cargo;
 	}
-	private void verificarInvariante( )
+	private void verificarInvariante()
     {
         assert nombre != null: "El nombre no puede ser null";
         assert apellido != null: "El apellido no puede ser null";
