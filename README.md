@@ -8,6 +8,6 @@
 ## Name        :point_left:
 ## Last name         :ok_hand:
 ## Age         :older_man:
-## Cedula         :date:
+## ID number         :date:
 ## Charge         :construction_worker:
 ## :grinning: 	:wink: 	:two_hearts:
